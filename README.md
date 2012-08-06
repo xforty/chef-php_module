@@ -1,21 +1,19 @@
-Description
+chef-php_module
 ===========
 
 Includes recipes for php modules that can be installed.
 
-Requirements
-============
+### Requirements ###
 
-* [Opscode's php cookbook](http://community.opscode.com/cookbooks/php/)
+* See [metadata.rb](https://github.com/xforty/chef-xforty/blob/master/metadata.rb)
 
+### Attributes ###
 
-Attributes
-==========
+#### default ####
 
-None
+* None
 
-Usage
-=====
+### Usage ###
 
 Include one of the module recipes in your own cookbook recipe.
 
