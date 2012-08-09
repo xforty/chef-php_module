@@ -1,18 +1,18 @@
 chef-php_module
 ===============
-version 1.0.x - [changelog](https://github.com/xforty/chef-php_module/blob/master/CHANGELOG.md)
+version 1.0.0 - [changelog](https://github.com/xforty/chef-php_module/blob/master/CHANGELOG.md)
 
 ### Description
 
-Includes recipes for php modules that can be installed.
+Contains recipes to install individual php modules.
 
 ### Requirements
 
-* See [metadata.rb](https://github.com/xforty/chef-php_module/blob/master/metadata.rb)
+See [metadata.rb](https://github.com/xforty/chef-php_module/blob/master/metadata.rb)
 
 ### Attributes
 
-* None
+None
 
 ### Usage
 

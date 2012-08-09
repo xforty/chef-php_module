@@ -1,9 +1,11 @@
 chef-php_module changelog
 =========================
 
-### 1.0.0 (unreleased)
+### 1.0.0 (August 9, 2012)
 
+  * Started using git-flow for development
 
+  * Added changelog
 
 ### Previous
 
