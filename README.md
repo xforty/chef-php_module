@@ -1,21 +1,20 @@
-Description
-===========
+chef-php_module
+===============
+version 1.0.0 - [changelog](https://github.com/xforty/chef-php_module/blob/master/CHANGELOG.md)
 
-Includes recipes for php modules that can be installed.
+### Description
 
-Requirements
-============
+Contains recipes to install individual php modules.
 
-* [Opscode's php cookbook](http://community.opscode.com/cookbooks/php/)
+### Requirements
 
+See [metadata.rb](https://github.com/xforty/chef-php_module/blob/master/metadata.rb)
 
-Attributes
-==========
+### Attributes
 
 None
 
-Usage
-=====
+### Usage
 
 Include one of the module recipes in your own cookbook recipe.
 
